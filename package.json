@@ -1,0 +1,13 @@
+{
+  "name": "license-api",
+  "version": "1.0.0",
+  "description": "License validation API",
+  "main": "Program.cs",
+  "scripts": {
+    "start": "dotnet run"
+  },
+  "dependencies": {},
+  "engines": {
+    "dotnet": "8.0"
+  }
+}
